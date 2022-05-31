@@ -282,7 +282,7 @@ if(!$inveigh.relay_running)
     $inveigh.log_output = $true
     $inveigh.cleartext_out_file = $output_directory + "\Inv"+"eigh"+"-C"+"lear"+"text.txt"
     $inveigh.log_out_file = $output_directory + "\In"+"ve"+"igh"+"-Lo"+"g.txt"
-    $inveigh.NTLMv1_out_file = $output_directory + "\Inv"+"eig"+"h-"N+"TL"+"Mv"+"1.txt"
+    $inveigh.NTLMv1_out_file = $output_directory + "\Inv"+"eig"+"h-"+"N"+"TL"+"Mv"+"1.txt"
     $inveigh.NTLMv2_out_file = $output_directory + "\Inveigh-NTLMv2.txt"
     $inveigh.POST_request_out_file = $output_directory + "\In"+"ve"+"igh"+"-For"+"mI"+"nput.txt"
 }
